@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "Hello, I'm Nacho Méndez, a passionate software engineer specializing in developing innovative websites and mobile applications. My focus is on creating effective, user-friendly tech solutions to elevate your ideas to the next level.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "/yo_b&w.png"
 };
 
 const dataabout = {
