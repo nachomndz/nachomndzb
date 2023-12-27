@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/nachomndzb/static/css/main.e1658412.css",
-    "main.js": "/nachomndzb/static/js/main.453058ce.js",
-    "static/media/yo_b&w.png": "/nachomndzb/static/media/yo_b&w.9f3e3718ac3f1538ce3d.png",
-    "index.html": "/nachomndzb/index.html"
+    "main.css": "./static/css/main.e1658412.css",
+    "main.js": "./static/js/main.03f65057.js",
+    "static/media/yo_b&w.png": "./static/media/yo_b&w.9f3e3718ac3f1538ce3d.png",
+    "index.html": "./index.html"
   },
   "entrypoints": [
     "static/css/main.e1658412.css",
-    "static/js/main.453058ce.js"
+    "static/js/main.03f65057.js"
   ]
 }
